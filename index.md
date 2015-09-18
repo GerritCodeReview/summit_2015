@@ -57,7 +57,7 @@ And Gerrit doesn't support SAML out of the box.
 
 What does it take to get geographically distributed Gerrit masters?
 
-*Patrick Renaud, Ericsson*
+*TBD, Google*
 
 ### Docker-ization of Gerrit
 

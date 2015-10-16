@@ -109,6 +109,10 @@ delivery.
 
 *TBD, Google*
 
+## 3:45 pm Gerrit at ???
+
+*Gareth Bowles*
+
 ## End
 
 See you on [Sunday](/sun.md) between 8:45 and 9:30!

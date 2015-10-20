@@ -86,6 +86,10 @@ of the Git and Gerrit configuration steps.
 
 *Doug Kelly, Garmin*
 
+## 2:00 pm Ericsson's migration to Gerrit
+
+*Frank Stockmans, Ericsson*
+
 ## 2:30 pm Break and snack
 
 Coffee and snacks served in breakout area.

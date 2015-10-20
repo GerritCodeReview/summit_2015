@@ -26,7 +26,7 @@ Coffee and breakfast in breakout area.
 ## 10:15 am Gertty: Console Interface to Gerrit
 
 Gertty is a console-based interface to Gerrit implementing using
-Gerrit's comprehensive REST API.  Gertt's author will discuss his
+Gerrit's comprehensive REST API.  Gertty's author will discuss his
 experience using the API, demonstrate the unique capabilities afforded
 by a secondary interface, and show some ASCII art.
 

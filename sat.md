@@ -19,7 +19,11 @@
 Coffee and breakfast in breakout area.
 
 ## 9:30 am Welcome
-## 9:45 am What's new in 2.11
+## 9:45 am What's new in 2.11, what's coming in 2.12
+
+An overview of the new features and important fixes that are included
+in Gerrit 2.11, followed by a preview of the new features coming in
+Gerrit 2.12.
 
 *David Pursehouse, Sony Mobile*
 

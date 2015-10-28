@@ -117,6 +117,10 @@ delivery.
 
 *Gareth Bowles*
 
+## 4:00 pm Gerrit at Intel
+
+*Jorj-Cezar Munteanu*
+
 ## End
 
 See you on [Sunday](/sun.md) between 8:45 and 9:30!

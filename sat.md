@@ -70,6 +70,14 @@ Gerrit to GitHub repositories. Learn more about how this is going.
 
 *Luca Milanesio, GerritForge*
 
+## 1:00 pm Gerrit in a Windows world
+
+Managing Gerrit in a mostly-Windows environment, and how we've helped
+simplify and improve the new employee setup process by automating many
+of the Git and Gerrit configuration steps.
+
+*Doug Kelly, Garmin*
+
 ## 1:30 pm SAML in a weekend
 
 How I implemented SAML for Gerrit in one weekend.  Most enterprises
@@ -77,14 +85,6 @@ already have a single sign-on solution.  And Gerrit doesn't support
 SAML out of the box.
 
 *Nadav S Samet, TrueAccord*
-
-## 1:30 pm Gerrit in a Windows world
-
-Managing Gerrit in a mostly-Windows environment, and how we've helped
-simplify and improve the new employee setup process by automating many
-of the Git and Gerrit configuration steps.
-
-*Doug Kelly, Garmin*
 
 ## 2:00 pm Ericsson's migration to Gerrit
 

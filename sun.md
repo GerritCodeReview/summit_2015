@@ -72,6 +72,10 @@ Mesos and the Hadoop ecosystem.
 
 *Stefano Galarraga, GerritForge Ltd*
 
+## 1:00 pm Monitoring Gerrit
+
+*Stephen Williams, Qualcomm*
+
 ## 1:30 pm Prolog file-level whitelists
 
 How I use Prolog to implement file-level whitelist and blacklist if
@@ -79,6 +83,10 @@ there are any interests. (I am a Prolog novice myself!)
 [15 min]
 
 *Kenny Ho, AMD*
+
+## 1:30 pm PolyGerrit: New Polymer UI
+
+*TBD, Google*
 
 ## 2:00 pm Non-Prolog submit rules
 

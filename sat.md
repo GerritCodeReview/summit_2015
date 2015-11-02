@@ -113,11 +113,7 @@ delivery.
 
 *TBD, Google*
 
-## 3:45 pm Gerrit at ???
-
-*Gareth Bowles*
-
-## 4:00 pm Gerrit at Intel
+## 3:45 pm Gerrit at Intel
 
 *Jorj-Cezar Munteanu*
 

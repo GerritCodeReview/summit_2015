@@ -84,10 +84,6 @@ there are any interests. (I am a Prolog novice myself!)
 
 *Kenny Ho, AMD*
 
-## 1:30 pm PolyGerrit: New Polymer UI
-
-*TBD, Google*
-
 ## 2:00 pm Non-Prolog submit rules
 
 You shall not pass – Control your code quality gates with a wizard.
@@ -128,3 +124,7 @@ presented by GerritForge, and I will discuss some of the challenges &
 solutions, with an eye towards integrated solutions in Docker.
 
 *Sam Van Oort, CloudBees, Inc.*
+
+## 4:00 pm PolyGerrit: New Polymer UI
+
+*TBD, Google*

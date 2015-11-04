@@ -6,7 +6,7 @@
 <iframe
   src="https://docs.google.com/spreadsheets/d/1k3Q_Jx-iSPlHzfeTmrYYuMrebripvkD98vknhhOth50/pubhtml?gid=811932605&widget=true&headers=false"
   width="510px"
-  height="480px"
+  height="510px"
   frameborder="0"></iframe>
 
 #### Sessions

@@ -19,7 +19,7 @@
 Coffee and breakfast in breakout area.
 
 ## 9:30 am Welcome
-## 9:45 am What's new in 2.11, what's coming in 2.12
+## 9:35 am What's new in 2.11, what's coming in 2.12
 
 An overview of the new features and important fixes that are included
 in Gerrit 2.11, followed by a preview of the new features coming in
@@ -27,14 +27,9 @@ Gerrit 2.12.
 
 *David Pursehouse, Sony Mobile*
 
-## 10:15 am Gertty: Console Interface to Gerrit
+## 10:00 am Atomic Submit
 
-Gertty is a console-based interface to Gerrit implementing using
-Gerrit's comprehensive REST API.  Gertty's author will discuss his
-experience using the API, demonstrate the unique capabilities afforded
-by a secondary interface, and show some ASCII art.
-
-*James Blair, OpenStack / IBM*
+*Stefan Beller, Google*
 
 ## 10:35 am Break
 
@@ -85,6 +80,15 @@ already have a single sign-on solution.  And Gerrit doesn't support
 SAML out of the box.
 
 *Nadav S Samet, TrueAccord*
+
+## 1:30 pm Gertty: Console Interface to Gerrit
+
+Gertty is a console-based interface to Gerrit implementing using
+Gerrit's comprehensive REST API.  Gertty's author will discuss his
+experience using the API, demonstrate the unique capabilities afforded
+by a secondary interface, and show some ASCII art.
+
+*James Blair, OpenStack / IBM*
 
 ## 2:00 pm Ericsson's migration to Gerrit
 

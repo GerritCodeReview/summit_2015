@@ -25,6 +25,8 @@ An overview of the new features and important fixes that are included
 in Gerrit 2.11, followed by a preview of the new features coming in
 Gerrit 2.12.
 
+[Slides](https://docs.google.com/presentation/d/1xfO_qXIxO4nErjmYFlPu6eNYD82gNv9q7ce0LzeqGO8/edit?usp=sharing).
+
 *David Pursehouse, Sony Mobile*
 
 ## 10:00 am Google Store!

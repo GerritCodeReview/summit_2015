@@ -27,6 +27,21 @@ Gerrit 2.12.
 
 *David Pursehouse, Sony Mobile*
 
+## 10:00 am Google Store!
+
+The Google Store will be open to us between 10:00 am and 2:00 pm today
+(Saturday).  Please show your "Gerrit User Summit" badge to gain
+access to the store.  The store is located at:
+
+> 1981 Landings Drive,
+> Mountain View, CA
+> 
+> [map](https://www.google.com/maps/place/1981+Landings+Dr,+Mountain+View,+CA+94043/@37.418634,-122.087419,17z/data=!4m2!3m1!1s0x808fba0168aac6df:0x124c212de8b51510)
+
+This is several blocks away.  You may prefer to drive.  The famous
+"Android statue" farm is also located here and is a frequent photo
+opportunity.
+
 ## 10:00 am Atomic Submit
 
 *Stefan Beller, Google*

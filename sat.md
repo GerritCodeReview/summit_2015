@@ -75,9 +75,14 @@ of the Git and Gerrit configuration steps.
 
 ## 1:30 pm SAML in a weekend
 
-How I implemented SAML for Gerrit in one weekend.  Most enterprises
-already have a single sign-on solution.  And Gerrit doesn't support
-SAML out of the box.
+Single Sign-on (SSO) enables users to conveniently sign in into an
+organization's internal application by using a single set of
+credentials.  More than that, by signing once, they gain access to all
+the applications they need.  Besides the obvious convenience SSO
+provides to end users, IT administrators can manage all their users
+and their access rights from a central place.  In this talk, I will
+show you how we implemented SSO via SAML for Gerrit in just one
+weekend.
 
 *Nadav S Samet, TrueAccord*
 

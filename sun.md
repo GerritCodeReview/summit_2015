@@ -24,7 +24,7 @@ Coffee and breakfast in breakout area.
 
 ## 10:00 am Scaling Gerrit: active-active masters
 
-*TBD, Google*
+*Shawn Pearce, Google*
 
 ## 10:30 am Break
 ## 11:00 am Tuning Gerrit
@@ -127,4 +127,4 @@ solutions, with an eye towards integrated solutions in Docker.
 
 ## 4:00 pm PolyGerrit: New Polymer UI
 
-*TBD, Google*
+*Dave Borowitz, Google*

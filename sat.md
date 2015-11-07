@@ -133,9 +133,9 @@ delivery.
 
 *Shanbin Wang, Yahoo*
 
-## 3:30 pm Gerrit at Google
+## 3:30 pm Git at Google
 
-*TBD, Google*
+*Shawn Pearce, Google*
 
 ## 3:45 pm Gerrit at Intel
 

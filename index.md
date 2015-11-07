@@ -5,12 +5,13 @@
 Saturday November 7th and Sunday November 8th
 
 ## Location
+1395 Charleston Road,
 Mountain View, CA
 
 *** promo
 ## Registration
 
-Registration closed on October 1st.
+Registration is closed.
 ***
 |||---|||
 

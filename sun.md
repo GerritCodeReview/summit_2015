@@ -80,6 +80,8 @@ Mesos and the Hadoop ecosystem.
 
 *Stefano Galarraga*, [GerritForge](http://www.gerritforge.com)
 
+[Slides](http://www.slideshare.net/stefanogalarraga/gerrit-jenkins-continuous-delivery-for-big-data)
+
 ## 1:30 pm Monitoring Gerrit
 
 *Stephen Williams, Qualcomm*

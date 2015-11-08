@@ -74,7 +74,7 @@ will start with a presentation of our workflow and then will explain
 how we leveraged Gerrit and Jenkins and how we integrated with Docker,
 Mesos and the Hadoop ecosystem.
 
-*Stefano Galarraga, GerritForge Ltd*
+*Stefano Galarraga* [GerritForge](http://www.gerritforge.com)
 
 ## 1:00 pm Monitoring Gerrit
 
@@ -113,7 +113,7 @@ Coffee and snacks served in breakout area.
 
 Packaging and Docker-ization for faster enterprise deployment.
 
-*Luca Milanesio, GerritForge*
+*Luca Milanesio* [GerritForge](http://www.gerritforge.com)
 
 ## 4:00 pm Jenkins & Gerrit
 

@@ -82,7 +82,7 @@ Buffet served in breakout area.
 [GerritHub](http://gerrithub.io/) launched 2 years ago, bringing
 Gerrit to GitHub repositories. Learn more about how this is going.
 
-*Luca Milanesio, GerritForge*
+*Luca Milanesio* [GerritForge](http://www.gerritforge.com)
 
 [Slides](http://www.slideshare.net/lucamilanesio/gerrithubio-present-past-future)
 

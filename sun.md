@@ -18,15 +18,19 @@
 
 Coffee and breakfast in breakout area.
 
-## 9:30 am Scaling Gerrit at Ericsson
+## 9:30 am Gerrit at Qualcomm
+
+*Nasser Grainawi, Qualcomm*
+
+## 9:45 am Scaling Gerrit at Ericsson
 
 *Vladimir Cantiru, Ericsson*
 
-## 10:00 am Scaling Gerrit: active-active masters
+## 10:15 am Scaling Gerrit: active-active masters
 
 *Shawn Pearce, Google*
 
-## 10:30 am Break
+## 10:30-ish am Break
 ## 11:00 am Tuning Gerrit
 
 How to Properly Tune and Size your Gerrit Backend

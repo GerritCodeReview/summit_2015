@@ -24,9 +24,13 @@ Coffee and breakfast in breakout area.
 
 ## 9:50 am Scaling Gerrit at Ericsson
 
+[Slides](https://storage.googleapis.com/gerrit-talks/summit/2015/Scaling-Gerrit-Ericsson.pdf)
+
 *Vladimir Cantiru, Ericsson*
 
 ## 10:30 am Scaling Gerrit: active-active masters
+
+[Slides](https://storage.googleapis.com/gerrit-talks/summit/2015/Multimaster-Gerrit.pdf)
 
 *Shawn Pearce, Google*
 

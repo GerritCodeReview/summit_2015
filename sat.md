@@ -84,6 +84,8 @@ Gerrit to GitHub repositories. Learn more about how this is going.
 
 *Luca Milanesio, GerritForge*
 
+[Slides](http://www.slideshare.net/lucamilanesio/gerrithubio-present-past-future)
+
 ## 1:00 pm Gerrit in a Windows world
 
 Managing Gerrit in a mostly-Windows environment, and how we've helped

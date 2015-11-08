@@ -22,16 +22,16 @@ Coffee and breakfast in breakout area.
 
 *Nasser Grainawi, Qualcomm*
 
-## 9:45 am Scaling Gerrit at Ericsson
+## 9:50 am Scaling Gerrit at Ericsson
 
 *Vladimir Cantiru, Ericsson*
 
-## 10:15 am Scaling Gerrit: active-active masters
+## 10:30 am Scaling Gerrit: active-active masters
 
 *Shawn Pearce, Google*
 
-## 10:30-ish am Break
-## 11:00 am Tuning Gerrit
+## 11:00 am Break
+## 11:30 am Tuning Gerrit
 
 How to Properly Tune and Size your Gerrit Backend
 
@@ -54,11 +54,11 @@ and formula.
 
 *Johannes Nicolai, CollabNet*
 
-## 12:00 pm Lunch
+## 12:30 pm Lunch
 
 Buffet served in breakout area.
 
-## 1:00 pm Continuous Delivery in Big Data
+## 1:30 pm Continuous Delivery in Big Data
 
 BigData is now everywhere, from mobile media analytics, banking,
 industry, avionics and even in medicine to monitor expansion of
@@ -76,11 +76,11 @@ Mesos and the Hadoop ecosystem.
 
 *Stefano Galarraga* [GerritForge](http://www.gerritforge.com)
 
-## 1:00 pm Monitoring Gerrit
+## 1:30 pm Monitoring Gerrit
 
 *Stephen Williams, Qualcomm*
 
-## 1:30 pm Prolog file-level whitelists
+## 2:00 pm Prolog file-level whitelists
 
 How I use Prolog to implement file-level whitelist and blacklist if
 there are any interests. (I am a Prolog novice myself!)
@@ -88,7 +88,7 @@ there are any interests. (I am a Prolog novice myself!)
 
 *Kenny Ho, AMD*
 
-## 2:00 pm Non-Prolog submit rules
+## 2:30 pm Non-Prolog submit rules
 
 You shall not pass – Control your code quality gates with a wizard.
 
@@ -101,21 +101,21 @@ alternative to writing submit rules in Prolog.
 
 *Eryk Szymanski, CollabNet*
 
-## 2:30 pm Break and snack
+## 3:00 pm Break and snack
 
 Coffee and snacks served in breakout area.
 
-## 3:00 pm notedb: Code reviews in Git
+## 3:30 pm notedb: Code reviews in Git
 
 *Dave Borowitz, Google*
 
-## 3:30 pm Docker-ization of Gerrit
+## 4:00 pm Docker-ization of Gerrit
 
 Packaging and Docker-ization for faster enterprise deployment.
 
 *Luca Milanesio* [GerritForge](http://www.gerritforge.com)
 
-## 4:00 pm Jenkins & Gerrit
+## 4:30 pm Jenkins & Gerrit
 
 CloudBees has a fully integrated & Dockerized Gerrit/Jenkins
 demonstration. This is based on the real-world use case of a mobile
@@ -129,6 +129,6 @@ solutions, with an eye towards integrated solutions in Docker.
 
 *Sam Van Oort, CloudBees, Inc.*
 
-## 4:00 pm PolyGerrit: New Polymer UI
+## 4:30 pm PolyGerrit: New Polymer UI
 
 *Dave Borowitz, Google*

@@ -56,6 +56,7 @@ Every participant will get a Gerrit Performance Tuning Cheat Sheet
 which summarizes the most important factors, gerrit.config options
 and formula.
 
+[Slides](https://www.dropbox.com/s/5v8k3msk3dmqfpo/GerritPerformanceTuning.pptx?dl=0) |
 [Performance Tuning Cheat Sheet](http://bit.ly/1kmpO7V)
 
 *Johannes Nicolai, CollabNet*

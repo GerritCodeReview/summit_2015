@@ -67,6 +67,8 @@ mining code review data and the results of some of our recent
 empirical studies of the code reviewing processes of large open source
 systems, such as Qt and OpenStack.
 
+[Slides](https://www.dropbox.com/s/rphmjkay4yf22dy/GerritSummit.pdf?dl=0)
+
 [more](http://shanemcintosh.org/tags/code-review.html)
 
 *Shane McIntosh, McGill University*

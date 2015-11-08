@@ -92,7 +92,11 @@ there are any interests. (I am a Prolog novice myself!)
 
 *Kenny Ho, AMD*
 
-## 2:30 pm Non-Prolog submit rules
+## 2:30 pm Break and snack
+
+Coffee and snacks served in breakout area.
+
+## 3:00 pm Non-Prolog submit rules
 
 You shall not pass – Control your code quality gates with a wizard.
 
@@ -104,10 +108,6 @@ This presentation is about a gerrit plugin that provides an
 alternative to writing submit rules in Prolog.
 
 *Eryk Szymanski, CollabNet*
-
-## 3:00 pm Break and snack
-
-Coffee and snacks served in breakout area.
 
 ## 3:30 pm notedb: Code reviews in Git
 

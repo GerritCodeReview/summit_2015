@@ -44,7 +44,12 @@ This is several blocks away.  You may prefer to drive.  The famous
 "Android statue" farm is also located here and is a frequent photo
 opportunity.
 
-## 10:00 am Atomic Submit
+## 10:00 am Coupling Changes
+
+Topic based submission of multiple changes at once.  Sometimes this
+was has been referred to as atomic submit.
+
+[Slides](https://storage.googleapis.com/gerrit-talks/summit/2015/Coupling-Changes.pdf)
 
 *Stefan Beller, Google*
 

@@ -115,6 +115,8 @@ delivery.
 
 *Shanbin Wang, Yahoo*
 
+[Slides](https://drive.google.com/file/d/0BxQu3m7vXWQfOUc5UzljLUdLb0U/view?usp=sharing)
+
 ## 3:30 pm Git at Google
 
 *Shawn Pearce, Google*

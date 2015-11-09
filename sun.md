@@ -124,6 +124,8 @@ Packaging and Docker-ization for faster enterprise deployment.
 
 *Luca Milanesio*, [GerritForge](http://www.gerritforge.com)
 
+[Slides](http://www.slideshare.net/lucamilanesio/gerrit-is-getting-native-with-rpm-deb-and-docker)
+
 ## 4:30 pm Jenkins & Gerrit
 
 CloudBees has a fully integrated & Dockerized Gerrit/Jenkins

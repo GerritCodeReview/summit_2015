@@ -91,6 +91,8 @@ alternative to writing submit rules in Prolog.
 
 *Eryk Szymanski, CollabNet*
 
+[Slides](http://bit.ly/1Hr3F2x)
+
 ## 3:30 pm notedb: Code reviews in Git
 
 *Dave Borowitz, Google*

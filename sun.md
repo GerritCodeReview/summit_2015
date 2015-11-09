@@ -1,22 +1,6 @@
 # Sunday Agenda
 
-|||---||| 7,5
-
-#### Schedule
-<iframe
-  src="https://docs.google.com/spreadsheets/d/1k3Q_Jx-iSPlHzfeTmrYYuMrebripvkD98vknhhOth50/pubhtml?gid=811932605&widget=true&headers=false"
-  width="510px"
-  height="510px"
-  frameborder="0"></iframe>
-
-#### Sessions
 [TOC]
-
-|||---|||
-
-## 8:45 am Breakfast
-
-Coffee and breakfast in breakout area.
 
 ## 9:30 am Gerrit at Qualcomm
 
@@ -34,7 +18,6 @@ Coffee and breakfast in breakout area.
 
 *Shawn Pearce, Google*
 
-## 11:00 am Break
 ## 11:30 am Tuning Gerrit
 
 How to Properly Tune and Size your Gerrit Backend
@@ -60,10 +43,6 @@ and formula.
 [Performance Tuning Cheat Sheet](http://bit.ly/1kmpO7V)
 
 *Johannes Nicolai, CollabNet*
-
-## 12:30 pm Lunch
-
-Buffet served in breakout area.
 
 ## 1:30 pm Continuous Delivery in Big Data
 
@@ -98,10 +77,6 @@ there are any interests. (I am a Prolog novice myself!)
 [Examples](https://gerrit-review.googlesource.com/71310)
 
 *Kenny Ho, AMD*
-
-## 2:30 pm Break and snack
-
-Coffee and snacks served in breakout area.
 
 ## 3:00 pm Non-Prolog submit rules
 

@@ -1,24 +1,7 @@
 # Saturday Agenda
 
-|||---||| 7,5
-
-#### Schedule
-<iframe
-  src="https://docs.google.com/spreadsheets/d/1k3Q_Jx-iSPlHzfeTmrYYuMrebripvkD98vknhhOth50/pubhtml?gid=811932605&widget=true&headers=false"
-  width="510px"
-  height="510px"
-  frameborder="0"></iframe>
-
-#### Sessions
 [TOC]
 
-|||---|||
-
-## 8:45 am Registration and Breakfast
-
-Coffee and breakfast in breakout area.
-
-## 9:30 am Welcome
 ## 9:35 am What's new in 2.11, what's coming in 2.12
 
 An overview of the new features and important fixes that are included
@@ -53,10 +36,6 @@ was has been referred to as atomic submit.
 
 *Stefan Beller, Google*
 
-## 10:35 am Break
-
-Coffee in the breakout area.
-
 ## 11:00 am Impact of Modern Code Review Practices
 
 Software teams that use modern code reviewing tools like Gerrit are
@@ -77,10 +56,6 @@ systems, such as Qt and OpenStack.
 [more](http://shanemcintosh.org/tags/code-review.html)
 
 *Shane McIntosh, McGill University*
-
-## 12:00 pm Lunch
-
-Buffet served in breakout area.
 
 ## 1:00 pm GerritHub: 2 years in
 
@@ -125,10 +100,6 @@ by a secondary interface, and show some ASCII art.
 
 *Frank Stockmans, Ericsson*
 
-## 2:30 pm Break and snack
-
-Coffee and snacks served in breakout area.
-
 ## 3:00 pm Gerrit at Yahoo, a 2-year Journey
 
 Sharing our experience in these 2 years on Gerrit's growth in Yahoo
@@ -151,7 +122,3 @@ delivery.
 ## 3:45 pm Gerrit at Intel
 
 *Jorj-Cezar Munteanu*
-
-## End
-
-See you on [Sunday](/sun.md) between 8:45 and 9:30!

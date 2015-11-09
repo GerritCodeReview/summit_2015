@@ -95,6 +95,8 @@ How I use Prolog to implement file-level whitelist and blacklist if
 there are any interests. (I am a Prolog novice myself!)
 [15 min]
 
+[Examples](https://gerrit-review.googlesource.com/71310)
+
 *Kenny Ho, AMD*
 
 ## 2:30 pm Break and snack

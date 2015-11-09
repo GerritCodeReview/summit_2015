@@ -95,6 +95,8 @@ alternative to writing submit rules in Prolog.
 
 *Dave Borowitz, Google*
 
+[Slides](https://storage.googleapis.com/gerrit-talks/summit/2015/NoteDB.pdf)
+
 ## 4:00 pm Docker-ization of Gerrit
 
 Packaging and Docker-ization for faster enterprise deployment.
@@ -118,5 +120,7 @@ solutions, with an eye towards integrated solutions in Docker.
 *Sam Van Oort, CloudBees, Inc.*
 
 ## 4:30 pm PolyGerrit: New Polymer UI
+
+[Slides](https://storage.googleapis.com/gerrit-talks/summit/2015/PolyGerrit-Preview.pdf)
 
 *Dave Borowitz, Google*

@@ -66,6 +66,8 @@ Mesos and the Hadoop ecosystem.
 
 ## 1:30 pm Monitoring Gerrit
 
+[Slides](https://storage.googleapis.com/gerrit-talks/summit/2015/Monitoring-Gerrit.pdf)
+
 *Stephen Williams, Qualcomm*
 
 ## 2:00 pm Prolog file-level whitelists

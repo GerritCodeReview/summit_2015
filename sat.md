@@ -30,7 +30,7 @@ opportunity.
 ## 10:00 am Coupling Changes
 
 Topic based submission of multiple changes at once.  Sometimes this
-was has been referred to as atomic submit.
+has been referred to as atomic submit.
 
 [Slides](https://storage.googleapis.com/gerrit-talks/summit/2015/Coupling-Changes.pdf)
 

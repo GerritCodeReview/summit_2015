@@ -121,6 +121,8 @@ delivery.
 
 *Shawn Pearce, Google*
 
+[Slides](https://storage.googleapis.com/gerrit-talks/summit/2015/Git-at-Google.pdf)
+
 ## 3:45 pm Gerrit at Intel
 
 *Jorj-Cezar Munteanu*

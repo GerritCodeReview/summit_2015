@@ -100,6 +100,8 @@ by a secondary interface, and show some ASCII art.
 
 *Frank Stockmans, Ericsson*
 
+[Slides](https://drive.google.com/open?id=1-BZBBIpnR6THOHE0mKyVOvRNXPH-sFKp)
+
 ## 3:00 pm Gerrit at Yahoo, a 2-year Journey
 
 Sharing our experience in these 2 years on Gerrit's growth in Yahoo
